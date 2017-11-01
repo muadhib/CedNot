@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub Site
 
-You can use the [editor on GitHub](https://github.com/muadhib/CedNot/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Cedric. I'm developper since many years and now I'm Lead developper in a four persons Team. I'm French and I live near Lyon.  
+I'm passionate about developpement and more particulary in POO language and Optimization.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## My history
+I discovered computering when I was 5 years with an Amstrad CPC 464. My mother have some books about development, so I started code with copying lines of code without understand anything. :)  
+It was not surprising my parents when I told them I wanted to study computering.  
+I'm quickly found work when I ended school. First, I create a software for manage Restaurant in Delphy. After, I join my actual company as hotliner / developper (Java). After two years I joined my actually team as developper (C# ASP.NET / JS / HTML5 / CSS) for create an invoices match engine and a book entry generator call GEC. We were the first team to work in Agility in the company.  
+Actually, I'm always in the same team but now as team leader.  
+Since I'm team leader, I have made somes changes : 
+* Establish SCRUM Method (First, I as Scrum Master and now an other team member as Scrum Master)
+* Create an Automated testing environnement (Protractor)
+* Increase Quality Developpement (Code Review / Pair Programming / Sonar in Continuity integration)
+* Focus the team level up ! 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/muadhib/CedNot/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## My capabilities
+* C#
+* SQL Server
+* JavaScript
+* SCRUM
+* HTML5 / CSS3
